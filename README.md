@@ -13,10 +13,10 @@
 
 
 - android.util — 为了兼容低版本，从安卓sdk中复制出来的base64工具包
-- com.pediy.bbs.kanxue — 界面包
-- com.pediy.bbs.kanxue.net — 网络包
-- com.pediy.bbs.kanxue.util — 工具包
-- com.pediy.bbs.kanxue.widget — 控件包
+- com.can2do.bbs — 界面包
+- com.can2do.bbs.net — 网络包
+- com.can2do.bbs.util — 工具包
+- com.can2do.bbs.widget — 控件包
 
 > libs<br>
 > └ fastjson-1.1.26-android.jar<br>
